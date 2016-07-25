@@ -1,0 +1,26 @@
+{
+  "name": "hfbotproject01",
+  "version": "1.0.0",
+  "description": "\"Build a bot in Node.js on Microsoft Bot Framework by H. Fang.\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilshfang/BOTProject01.git"
+  },
+  "keywords": [
+    "bot",
+    "VS",
+    "Coder",
+    "Git",
+    "Azure"
+  ],
+  "author": "henry fang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilshfang/BOTProject01/issues"
+  },
+  "homepage": "https://github.com/ilshfang/BOTProject01#readme"
+}
